@@ -1,2 +1,5 @@
-# Test Code Owners concept - Assign Magda account team to the entire repository
+# Test Code Owners concept - Assign the whole team to the entire repository
 *                         @Magda-Iza/BibliotekaBack
+
+# Test Code Owners concept - Assign Magda to /src/main/** path
+/src/main                 @MagdalenaBrejna
